@@ -1,2 +1,2 @@
 # waterfox-upgrade.sh
-Upgrade waterfox from CLI
+Simple script to upgrade Waterfox from CLI
